@@ -1,0 +1,7 @@
+{
+  "name": "Rishu AI - Your Intelligent Companion",
+  "description": "An all-in-one AI assistant featuring chat, image generation, mind games, and a voice assistant. Built by a talented creator from Gaya Jilla.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
